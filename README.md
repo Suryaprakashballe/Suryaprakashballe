@@ -21,6 +21,11 @@ using SQL, Python, and BI tools.
 
 ---
 
+## 🔧 Tech Stack
+Python | SQL | Power BI | Tableau | Pandas | Matplotlib | Git | GitHub
+
+---
+
 ## 📌 Featured Projects
 - **Olist E-Commerce Performance Analysis (SQL + Power BI)**
 - **Global Superstore Sales Insights (SQL)**

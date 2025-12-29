@@ -30,10 +30,11 @@ Python | SQL | Power BI | Tableau | Pandas | Matplotlib | Git | GitHub
 ---
 
 ## 📌 Featured Projects
+- **IBM Data Analyst Capstone Project**
 - **Olist E-Commerce Performance Analysis (SQL + Power BI)**
 - **Global Superstore Sales Insights (SQL)**
 - **World Happiness Insights Dashboard (Python)**
-- **IBM Data Analyst Capstone Project**
+
 
 ---
 

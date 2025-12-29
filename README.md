@@ -1,4 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 # Hi, I'm Surya Prakash 👋

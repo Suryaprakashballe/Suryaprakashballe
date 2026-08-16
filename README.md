@@ -25,7 +25,7 @@ using SQL, Python, and BI tools.
 ---
 
 ## 🔧 Tech Stack
-Python | SQL | Power BI | Tableau | Pandas | Matplotlib | Git | GitHub
+Python | SQL | Excel | Power BI | Tableau | Pandas | Matplotlib | Git | GitHub
 
 ---
 
